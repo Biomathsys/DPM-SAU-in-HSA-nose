@@ -3,9 +3,8 @@ This repository introduces the codes applied to the nasal microbial community of
 
 ========================================
 
-A metabolic modeling workflow for communities of organisms in an nasal
-medium. This implements functionality to analyze the interaction of
-metabolic models within a community.
+A metabolic modeling community of organisms D. pigrum and S. aureus in a nasal medium. 
+This implements functionality to analyze the interaction between these two species within a human nose using different approaches to construct a community.
 
 [![License (MIT Licence)](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://opensource.org/licenses/MIT)
 
@@ -24,18 +23,18 @@ To run it as a package, refer to:
 ► Getting started with this repository
 ----------------------------
 
-All codes can be run separately in jupyter notebook.
+All codes can be run separately in the jupyter notebook.
 
 
 Overview
 --------
 
-The repository is contained a folder named "model", a csv file as "SNM.csv", all codes used in the related manuscript. 
+The repository has contained a folder named "Models," including models used in this work, a folder named "Media" including synthetic nasal medium (SNM3) used in this work and all other media created as a subset of SNM3, and all codes applied for the analysis in the related manuscript. 
 
 **Model_Summary**
 
 - **DP_SA_summatymodel_1**:
-    gives an overview of both models used in this reserach
+    gives an overview of both models used in this research
 - **flux_distribution_SA**:
     is an overview of flux distribution of S. aureus 
 - **flux_distribution_DP**
@@ -54,13 +53,13 @@ The repository is contained a folder named "model", a csv file as "SNM.csv", all
 
 - **number_12** the analysis of the community based on the pooled approaches
        
-- **number_13** the analysis of the community based on the integrated approaches while we have media SNM, exchnage, COMPM
+- **number_13** the analysis of the community based on the integrated approaches while we have media SNM3, exchange, COMPM
         
-- **number_14** the analysis of the community based on the shuttle approaches while we have media SNM, exchnage, COMPM (shuttle environmnet was considered as all 111 totall exchnage reactions)- linear combination of objective function was implemened.
+- **number_14** the analysis of the community based on the shuttle approaches while we have media SNM3, exchange, COMPM (shuttle environment was considered as all 111 total exchange reactions)- linear combination of the objective function was implemented.
  
-- **number_16** the analysis of the community based on the shuttle approaches while we have media SNM, exchnage, COMPM (shuttle environmnet was considered as all 111 totall exchnage reactions)- convex combination of objctive function was implemened.
+- **number_16** the analysis of the community based on the shuttle approaches while we have media SNM3, exchange, COMPM (shuttle environment was considered as all 111 total exchange reactions)- the convex combination of the objective function was implemented.
 
-- **number_18** the analysis of the community based on the shuttle approaches while we have media SNM, exchnage, COMPM (shuttle environmnet was considered as all uptake and secreted metabolites)- linear combination of objective function and convex combintion were implemened.
+- **number_18** the analysis of the community based on the shuttle approaches while we have media SNM3, exchange, COMPM (shuttle environment was considered as all uptake and secreted metabolites)- linear combination of the objective function and convex combination were implemented.
  
 - **numbers_20-21-22-23-24-25** computing the COOPM media in different scenarios and the analysis of the community in COOPM in all different conditions.
 
