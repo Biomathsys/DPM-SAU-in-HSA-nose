@@ -61,7 +61,7 @@ The repository is contained a folder named "model", a csv file as "SNM.csv", all
 - **number_16** the analysis of the community based on the shuttle approaches while we have media SNM, exchnage, COMPM (shuttle environmnet was considered as all 111 totall exchnage reactions)- convex combination of objctive function was implemened.
 
 - **number_18** the analysis of the community based on the shuttle approaches while we have media SNM, exchnage, COMPM (shuttle environmnet was considered as all uptake and secreted metabolites)- linear combination of objective function and convex combintion were implemened.
-- 
+ 
 - **numbers_20-21-22-23-24-25** computing the COOPM media in different scenarios and the analysis of the community in COOPM in all different conditions.
 
 - **numbers_26-28** a brief analysis of different scenarios while the community was created as a package to be called.
