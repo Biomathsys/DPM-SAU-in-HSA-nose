@@ -42,6 +42,7 @@ The repository is contained a folder named "model", a csv file as "SNM.csv", all
     is an overview of flux distribution of D. pigrum 
 - **creat_compm_media**
     the COMPM media was created  
+    
  **Similarity** 
   
 - **jaccard_index**:
