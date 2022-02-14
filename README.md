@@ -10,8 +10,8 @@ This implements functionality to analyze the interaction between these two speci
 [![DOI](https://zenodo.org/badge/457820953.svg)](https://zenodo.org/badge/latestdoi/457820953)
 
 ----
-*Authors*: [Reihaneh Mostolizadeh](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/systems-biology/team/dr-reihaneh-mostolizadeh/)
-[Manuel Glöckler](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/systems-biology/team/),
+*Authors*: [Reihaneh Mostolizadeh](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/systems-biology/team/dr-reihaneh-mostolizadeh/),
+[Manuel Glöckler](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/systems-biology/team/)
 
 To run it as a package, refer to: 
 
