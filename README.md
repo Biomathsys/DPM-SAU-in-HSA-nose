@@ -7,6 +7,7 @@ A metabolic modeling community of organisms D. pigrum and S. aureus in a nasal m
 This implements functionality to analyze the interaction between these two species within a human nose using different approaches to construct a community.
 
 [![License (MIT Licence)](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/457820953.svg)](https://zenodo.org/badge/latestdoi/457820953)
 
 ----
 *Authors*: [Reihaneh Mostolizadeh](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/systems-biology/team/dr-reihaneh-mostolizadeh/)
