@@ -66,6 +66,8 @@ The repository has contained a folder named "Models," including models used in t
 
 - **numbers_26-28** a brief analysis of different scenarios while the community was created as a package to be called.
 
+- **optcom_comparison**  MICOM package by using otpcom objective function and the modification based on the nasal microbiom community.
+
 ☮ Licensing and distribution
 ----------------------------
 
