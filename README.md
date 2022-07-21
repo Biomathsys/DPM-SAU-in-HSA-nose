@@ -25,7 +25,9 @@ To run it as a package, refer to:
 ----------------------------
 
 Operating systems: MacOS, Windows, Linux.
+
 All codes can be run separately in the jupyter notebook.
+
 One needs to have installed Python (version > 3.7), COBRApy, CPLEX, or any package to run optimization.
 
 
