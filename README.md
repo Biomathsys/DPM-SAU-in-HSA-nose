@@ -28,7 +28,8 @@ Operating systems: MacOS, Windows, Linux.
 
 All codes can be run separately in the jupyter notebook.
 
-One needs to have installed Python (version > 3.7), COBRApy, CPLEX, or any package to run optimization.
+The package depends on third-party software that was successfully tested using Python (version 3.7 or later), COBRApy (version 0.19.0 or later), CPLEX (version 20.1.0).
+Alternativiely, other solvers for linear programing may be used as long as those are supported by COBRApy.
 
 
 Overview
